@@ -4,7 +4,7 @@ import 'second_screen.dart';
 import 'third_screen.dart';
 
 //____________________________________________________________________________
-//    'FLUTTER RUN' IN CONSOLE
+//    'FLUTTER RUN' IN CONSOLE TO RUN PROGRAM
 //     CTRL + S SAVE
 //     SHIFT + R HOT RESTART (updates window)
 // https://api.flutter.dev/flutter/material/Icons-class.html ICONS
